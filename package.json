@@ -1,0 +1,22 @@
+{
+  "name": "expresshw",
+  "version": "1.0.0",
+  "description": "Express2 Hw",
+  "main": "RPS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acabrera100/Express2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acabrera100/Express2/issues"
+  },
+  "homepage": "https://github.com/acabrera100/Express2#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
